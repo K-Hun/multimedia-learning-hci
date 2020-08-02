@@ -1,0 +1,71 @@
+﻿300
+How many people take part in the project SETI@home?
+1.3 Billion
+1.3 Million
+1.6 Million
+1.6 Billion
+Which statement generally describes the goal of the project SETI@home?
+Finding extraordinary creatures.
+Constructing enormous dishes to capture radio waves.
+Trying to figure out whether we humans are alone in the world.
+Creating life on other planets.
+Which organization funded the project SETI?
+NATO
+NSA
+NASA
+ANSI
+How are SETI centers around the world going to find extra-terrestrial life?
+Sending air crafts outside the atmosphere of the earth.
+Capturing radio signals.
+Organizing special search teams.
+Processing big data using large computers.
+What is the most popular form of the SETI research?
+Wave SETI
+Macro SETI
+Radio SETI
+Spectrum SETI
+What does a radio telescope look like?
+An enormous dish with a very sensitive antenna
+An enormous antenna
+A telescope placed above an enormous dish
+A very sensitive and huge telescope
+Where is the world’s largest radio telescope?
+In the country of Portugal
+In the city of Prague
+On the island of Puerto Rico
+In the state of Pennsylvania
+What is the radio signal capturing range of the largest radio telescope in the world?
+From 1,000 feet above the earth’s surface to 4,000 feet above the atmosphere.
+From the earth’s surface to 1,000,000 light years.
+From the earth’s atmosphere to 1,000 light years.
+From the earth’s atmosphere to 100 Million light years.
+Which statement is true about the data collected from SETI projects around the world?
+They are a huge amount of data that no single computer can manage its processing.
+These data, reveal the location of the aliens on other planets.
+They are the signals that the aliens have sent us.
+They are collected from the largest radio telescope of the world.
+What was the reason that the SETI researchers thought about using personal computers’ processing power?
+Because they didn’t have enough money to process the data themselves.
+Because people wanted to contribute in the project.
+Because separating and extracting the required data from the received signals require huge
+processing power
+Because they wanted to share the project’s data with individuals
+What is the overall process of SETI@home distributed computing?
+A small amount of data is downloaded and processed by each PC and then the result is
+returned back to the headquarters in California.
+All the data is sent to each PC and after the processing is done, the results are returned to
+the headquarters in California.
+The same data is sent to each PC, and the results of each one are compared to the results of
+the others to see if there are any mistakes in the computations.
+One very large computer does all the required computations, and then the results are sent to
+distributed PCs for validation
+Why is it required to separate the signals that might possibly be signs of extra-terrestrial life from the received signals?
+Because there are noises in the received signals that have to be cleaned.
+Because separating the signals, causes the reduction of the data size.
+Because other planets, stars and galaxies also emit radio signals.
+Because the signals are composed of different frequency bands.
+What is this pod cast generally about?
+It explains how distributed computing has helped the project SETI.
+It talks about radio telescopes that are used to receive radio signals.
+It talks about life outside the solar system and how human is searching for them.
+It is about the aliens that have been found throughout the SETI project.

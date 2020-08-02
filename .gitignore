@@ -1,0 +1,19 @@
+*.edf
+*.mp4
+*.mkv
+*.pdf
+*.docx
+*.csv
+*.mat
+
+project-root-directory/
++ build/
++ dist/
++ nbproject/
+  build-impl.xml
+  + private/
+  + project.properties
+  + project.xml
++ src/
++ test/
++ build.xml

@@ -26,13 +26,17 @@ B.6: A button to terminate the performance test by the subject. a confirmation w
 
 
 # Screenshots
-![Participant's and task information](http://blog.k-hun.ir/wp-content/uploads/2020/08/hci0.png)
+![Participant's and task information inputs](http://blog.k-hun.ir/wp-content/uploads/2020/08/hci0.png)
+*Participant's and task information inputs*
 
 ![Eye-tracking baseline and calibration](http://blog.k-hun.ir/wp-content/uploads/2020/08/mv1.png)
+*Eye-tracking baseline and calibration*
 
 ![Playing multimedia](http://blog.k-hun.ir/wp-content/uploads/2020/08/mv2.png)
+*Playing multimedia*
 
 ![Performance test ](http://blog.k-hun.ir/wp-content/uploads/2020/08/hci3-Copy.png)
+*Performance test*
 
 ### Todos
 

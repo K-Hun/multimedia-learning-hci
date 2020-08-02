@@ -12,7 +12,17 @@ Just put the instructional videos and your question file and configure the softw
   - Detailed logger for behavioral analysis
   - Ability to play Any format of videos, powered by [vlcj](https://github.com/caprica/vlcj)
 
+
+
 ![Features](http://blog.k-hun.ir/wp-content/uploads/2020/08/soft-fig.png)
+*A: Fully screen multimedia playing.
+B: Performance test phase.
+A1 and B1:  Optical color change trigger for EEG based research
+B2: Remaining time to answer the performance test.
+B3: A button to show the next question, also there is a corresponding button at the left side of the screen to show the previous question.
+B4: A button to clear the selected option of the current question.
+B5: An overview and status of the questions which can help the subject to know which questions are answered and which ones are not answered yet. A participant can access any question by clicking on the question number.
+B.6: A button to terminate the performance test by the subject. a confirmation will show after clicking on this button. It should be mention that the task will be finished automatically if the remaining time is up.*
 
 
 # Screenshots

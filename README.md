@@ -27,7 +27,7 @@ B.6: A button to terminate the performance test by the subject. a confirmation w
 
 # Screenshots
 ![Participant's and task information inputs](http://blog.k-hun.ir/wp-content/uploads/2020/08/hci0.png)
-*Participant's and task information inputs*
+*Participant and task information inputs*
 
 ![Eye-tracking baseline and calibration](http://blog.k-hun.ir/wp-content/uploads/2020/08/mv1.png)
 *Eye-tracking baseline and calibration*

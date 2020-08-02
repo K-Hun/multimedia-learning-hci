@@ -12,6 +12,7 @@ Just put the instructional videos and your question file and configure the softw
   - Detailed logger for behavioral analysis
   - Ability to play Any format of videos, powered by [vlcj](https://github.com/caprica/vlcj)
 
+![Features](http://blog.k-hun.ir/wp-content/uploads/2020/08/soft-fig.png)
 
 
 # Screenshots

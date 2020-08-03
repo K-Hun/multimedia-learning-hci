@@ -11,7 +11,7 @@
   - With a baseline phase and calibration for eye-tracking based researches
   - Adjustable fonts and blocks sizes
   - Detailed logger for behavioral analysis
-  - Ability to play Any format of videos, powered by [vlcj](https://github.com/caprica/vlcj)
+  - Ability to play any format of videos, powered by [vlcj](https://github.com/caprica/vlcj)
 
 
 

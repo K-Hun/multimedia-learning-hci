@@ -1,6 +1,7 @@
 # multimedia-learning-hci
-An HCI software for video multimedia learning and performance test.
-Just put the instructional videos and your question file and configure the software. It plays the instructional video, then runs the performance test for the participant. The procedure is integrated and continuous, with a detailed logger for behavioral analysis. This software can be used in many educational cognitive neuroscience types of research.
+- An HCI software for video multimedia learning and performance test.
+- Just put the instructional videos and your question file and configure the software. It plays the instructional video, then runs the performance test for the participant. The procedure is integrated and continuous, with a detailed logger for behavioral analysis. This software can be used in many educational cognitive neuroscience types of research.
+- It's a part of my MSc thesis at [ebrahimpourlab](http://ebrahimpourlab.ir/people/).
 
 # Features
   - Cross-platform (MS Windows, macOS, and Linux)

@@ -1,0 +1,30 @@
+*.edf
+*.mp4
+*.mkv
+*.pdf
+*.docx
+*.csv
+*.mat
+*.png
+*.jpg
+*.jpeg
+
+
+
+# NetBeans specific #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
